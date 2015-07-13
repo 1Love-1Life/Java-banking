@@ -4,6 +4,7 @@ A super simple and Super Basic java program based on Banking
 This is a very basic program for beginners to depict nested class in JAVA lang.
 
 To run this program, open up your COmmand prompt --
+
 1) Type ``javac bank.java``
 
 2) Then type ``java Bank``
